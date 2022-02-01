@@ -1,0 +1,105 @@
+<style>
+*
+{
+		padding:0;
+		margin:0;
+}
+#header
+{
+	background-color:#000000;
+	height:70px;
+}
+#menubar
+{
+	width:100%;
+	background-color:#1D2731;
+}
+#wrapper
+{
+	width:100%;
+}
+.fa-instagram-square:hover
+{
+	color:#F6BA5C;
+}
+.fa-youtube:hover
+{
+	color:#FE0000;
+}
+#menubar a
+{
+font-size:20px;
+color:#ffffff;
+font-weight:bold;
+float:left;
+margin-left:25px;
+}
+.navbar-collapse
+{
+	background-color:rgba(225,225,225);
+	padding:10px;
+	border-radius:5%;
+	background-color:#1D2731;
+}
+ul
+{
+	list-style:none;
+}
+#socialsite a
+{
+font-size:20px;
+color:#ffffff;
+float:left;
+margin-left:25px;
+}
+#socialsite
+{
+	width:190px;
+	float:right;
+}
+#logincss
+{
+	max-width:600px;
+	color:#ffffff;
+	background-color:#012641;  
+	padding:0px 50px 50px 50px; 
+	border-radius:10px 10px 10px 10px; 
+}
+body
+{
+	
+}
+
+#content
+{
+	background-image:url("Images/bgimage.jpg");
+	background-repeat: no-repeat;
+	background-color:rgba(0,0,0,0.6);
+}
+#staticEmail
+{
+	margin-bottom:4px;
+}
+#inputPassword
+{
+	margin-bottom:20px;
+}
+#footer
+{
+	background-color:#000000;
+
+}
+#formgap
+{
+	margin:15px;
+}
+#opcss
+{
+	background-color:rgba(0,0,0,0.6);
+}
+#rollcreate
+{
+	background-image:linear-gradient(to right,#092040,#537895); 
+	min-height:250px;
+}
+</style>
